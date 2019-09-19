@@ -1,0 +1,16 @@
+
+.Home__search-input {
+    border: 0;
+    border-bottom: 1px solid #d1d1e0;
+    padding: 7px 3px;
+    width: 200px;
+}
+
+.Home__search-input::placeholder {
+    color: #d1d1e0;
+    font-size: 14px;
+}
+
+.Home__search-input:focus {
+    outline: 0;
+}

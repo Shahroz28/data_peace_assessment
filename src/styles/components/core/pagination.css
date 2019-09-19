@@ -1,0 +1,26 @@
+.Pagination__list {
+    text-align: right;
+}
+
+.Pagination__list .Pagination__page-number {
+    display: inline-block;
+    padding: 5px 8px;
+    border: 1px solid #ddd;
+    margin: 0 1px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Pagination__list .Pagination__page-number--active {
+    background-color: #8ac5ff;
+    border: 1px solid #4b9ef1;
+    color: #fff;
+}
+
+.Pagination__list .Pagination__page-number:hover {
+    border: 1px solid #4b9ef1;
+}
+
+.Pagination__pages-info {
+    cursor: not-allowed;
+}

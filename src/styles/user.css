@@ -1,0 +1,27 @@
+.User__info-wrapper {
+    display: flex;
+    border-bottom: 1px solid #e9e7e7;
+    padding: 8px;
+    justify-content: space-between;
+}
+
+.User__info.User__info--left {
+    font-weight: 600;   
+}
+
+.User__info.User__info--right {
+    color: #c3c3c3;
+}
+
+.User__back-link {
+    border: 1px solid #c3c3c3;
+    padding: 3px 15px;;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #a1a1a1
+}
+
+.User__back-link:hover {
+    background-color: #b1e0ff;
+    color: #000
+}

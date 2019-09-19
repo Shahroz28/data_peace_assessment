@@ -1,0 +1,12 @@
+.Header__menu {
+    display: block;
+    background-color: #3442ff;
+    padding: 20px;
+    margin: 0 0 30px 0;
+    box-shadow: 0 2px 5px 2px #c2c2c2;
+}
+
+.Header__menu-item {
+    display: flex;
+    color: #fff;
+}
